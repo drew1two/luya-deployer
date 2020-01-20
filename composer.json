@@ -13,7 +13,7 @@
 		}
 	],
 	"require" : {
-		"deployer/deployer": "^3.0"
+		"deployer/deployer":"6.60"
 	},
     "extra": {
         "branch-alias": {
